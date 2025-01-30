@@ -22,7 +22,7 @@ An automation bot for claiming daily cases on Solpot with multi-account support.
 1. Clone the repository:
 
 ```bash
-git clone https://codeberg.org/nithyajean/Solpot-BOT.git
+git clone https://github.com/nithyajean/Solpot-BOT.git
 cd Solpot-BOT
 ```
 
